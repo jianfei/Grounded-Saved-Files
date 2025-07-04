@@ -1,0 +1,5 @@
+*
+!.gitignore
+!Grounded
+!Grounded/**
+steam_autocloud.vdf
